@@ -5,8 +5,15 @@
 # Configure the English version of the site.
 [en]
   languageCode = "en-us"
-  # contentDir = "content/en"  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
+    contentDir = "content/en"  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
 
+[so]
+  languageCode = "so"
+    contentDir = "content/so"
+    title = "Badbaad"
+    [so.params]
+      description = "Madasha caafimaadka guud"
+      
 # Uncomment the lines below to configure your website in a second language.
 #[zh]
 #  languageCode = "zh-Hans"
