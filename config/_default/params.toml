@@ -9,7 +9,7 @@
 #   Latest themes (may require updating): https://sourcethemes.com/academic/themes/
 #   Browse built-in themes in `themes/academic/data/themes/`
 #   Browse user installed themes in `data/themes/`
-theme = "1950s"
+theme = "strawberry"
 
 # Enable users to switch between day and night mode?
 day_night = true
@@ -146,7 +146,7 @@ main_menu = {align = "l", show_logo = true}
 reading_time = false
 
 # Display next/previous section pager? (true/false)
-section_pager = false
+section_pager = true
 docs_section_pager = true  # Display pager in Docs layout (e.g. tutorials)?
 
 # Enable in-built social sharing buttons? (true/false)

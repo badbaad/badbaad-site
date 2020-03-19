@@ -1,0 +1,24 @@
+[[main]]
+  name = "Saabsan"
+  url = "/about"
+  weight = 10
+
+[[main]]
+  name = "Qoraalo"
+  url = "/posts"
+  weight = 20
+
+[[main]]
+  name = "Mashaariic"
+  url = "projects"
+  weight = 30
+
+[[main]]
+  name = "Buugaag"
+  url = "/books"
+  weight = 40
+
+[[main]]
+  name = "Xiriir"
+  url = "#contact"
+  weight = 60

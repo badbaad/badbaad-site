@@ -5,14 +5,21 @@
 # Configure the English version of the site.
 [so]
   languageCode = "so-so"
-    contentDir = "content/so"
-    title = "Badbaad"
-    [so.params]
-      description = "Madasha caafimaadka guud"
+  contentDir = "content/so"
+  languageName = "Soomaali"
+  title = "Badbaad"
+  weight = 1
+  [so.params]
+    description = "Madasha caafimaadka guud"
 
 [en]
   languageCode = "en-us"
-    contentDir = "content/en"  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
+  contentDir = "content/en"
+  languageName = "English"
+  title = "Badbaad"
+  weight = 2
+  [en.params]
+    description = "Public health platform"
 
 # Uncomment the lines below to configure your website in a second language.
 #[zh]
