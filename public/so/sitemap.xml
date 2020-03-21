@@ -3,370 +3,395 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/posts/</loc>
+    <loc>https://badbaad.com/posts/</loc>
     <lastmod>2020-03-21T15:21:18-04:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>https://badbaad.com/tags/</loc>
     <lastmod>2020-03-19T16:36:50-04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/"
+                href="https://badbaad.com/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="so"
-                href="/tags/"
+                href="https://badbaad.com/tags/"
                 />
   </url>
   
   <url>
-    <loc>/publication_types/0/</loc>
+    <loc>https://badbaad.com/tags/af-soomaali/</loc>
     <lastmod>2020-03-21T15:21:18-04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/publication_types/0/"
+                href="https://badbaad.com/en/tags/af-soomaali/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="so"
-                href="/publication_types/0/"
+                href="https://badbaad.com/tags/af-soomaali/"
                 />
   </url>
   
   <url>
-    <loc>/publication_types/5/</loc>
+    <loc>https://badbaad.com/tags/covid-19/</loc>
     <lastmod>2020-03-21T15:21:18-04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/publication_types/5/"
+                href="https://badbaad.com/en/tags/covid-19/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="so"
-                href="/publication_types/5/"
+                href="https://badbaad.com/tags/covid-19/"
                 />
   </url>
   
   <url>
-    <loc>/tags/af-soomaali/</loc>
+    <loc>https://badbaad.com/publication/king-county/</loc>
+    <lastmod>2020-03-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://badbaad.com/tags/images/</loc>
     <lastmod>2020-03-21T15:21:18-04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/af-soomaali/"
+                href="https://badbaad.com/en/tags/images/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="so"
-                href="/tags/af-soomaali/"
+                href="https://badbaad.com/tags/images/"
                 />
   </url>
   
   <url>
-    <loc>/tags/china/</loc>
+    <loc>https://badbaad.com/tags/municipal/</loc>
+    <lastmod>2020-03-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://badbaad.com/tags/seattle/</loc>
+    <lastmod>2020-03-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://badbaad.com/tags/somali/</loc>
     <lastmod>2020-03-21T15:21:18-04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/china/"
+                href="https://badbaad.com/en/tags/somali/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="so"
-                href="/tags/china/"
+                href="https://badbaad.com/tags/somali/"
                 />
   </url>
   
   <url>
-    <loc>/publication/impactdotso/</loc>
+    <loc>https://badbaad.com/tags/</loc>
     <lastmod>2020-03-21T15:21:18-04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/publication/impactdotso/"
+                href="https://badbaad.com/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="so"
-                href="/publication/impactdotso/"
+                href="https://badbaad.com/tags/"
                 />
   </url>
   
   <url>
-    <loc>/tags/covid-19/</loc>
+    <loc>https://badbaad.com/tags/usa/</loc>
+    <lastmod>2020-03-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://badbaad.com/tags/washington/</loc>
+    <lastmod>2020-03-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://badbaad.com/publication_types/0/</loc>
     <lastmod>2020-03-21T15:21:18-04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/covid-19/"
+                href="https://badbaad.com/en/publication_types/0/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="so"
-                href="/tags/covid-19/"
+                href="https://badbaad.com/publication_types/0/"
                 />
   </url>
   
   <url>
-    <loc>/tags/english/</loc>
+    <loc>https://badbaad.com/publication_types/5/</loc>
     <lastmod>2020-03-21T15:21:18-04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/english/"
+                href="https://badbaad.com/en/publication_types/5/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="so"
-                href="/tags/english/"
+                href="https://badbaad.com/publication_types/5/"
                 />
   </url>
   
   <url>
-    <loc>/publication/zhejiang-hospital/</loc>
+    <loc>https://badbaad.com/tags/china/</loc>
     <lastmod>2020-03-21T15:21:18-04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/publication/zhejiang-hospital/"
+                href="https://badbaad.com/en/tags/china/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="so"
-                href="/publication/zhejiang-hospital/"
+                href="https://badbaad.com/tags/china/"
                 />
   </url>
   
   <url>
-    <loc>/tags/handbook/</loc>
+    <loc>https://badbaad.com/publication/impactdotso/</loc>
     <lastmod>2020-03-21T15:21:18-04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/handbook/"
+                href="https://badbaad.com/en/publication/impactdotso/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="so"
-                href="/tags/handbook/"
+                href="https://badbaad.com/publication/impactdotso/"
                 />
   </url>
   
   <url>
-    <loc>/tags/images/</loc>
+    <loc>https://badbaad.com/tags/english/</loc>
     <lastmod>2020-03-21T15:21:18-04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/images/"
+                href="https://badbaad.com/en/tags/english/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="so"
-                href="/tags/images/"
+                href="https://badbaad.com/tags/english/"
                 />
   </url>
   
   <url>
-    <loc>/tags/mogadishu/</loc>
+    <loc>https://badbaad.com/publication/zhejiang-hospital/</loc>
     <lastmod>2020-03-21T15:21:18-04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/mogadishu/"
+                href="https://badbaad.com/en/publication/zhejiang-hospital/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="so"
-                href="/tags/mogadishu/"
+                href="https://badbaad.com/publication/zhejiang-hospital/"
                 />
   </url>
   
   <url>
-    <loc>/publication_types/</loc>
+    <loc>https://badbaad.com/tags/handbook/</loc>
     <lastmod>2020-03-21T15:21:18-04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/publication_types/"
+                href="https://badbaad.com/en/tags/handbook/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="so"
-                href="/publication_types/"
+                href="https://badbaad.com/tags/handbook/"
                 />
   </url>
   
   <url>
-    <loc>/publication/who-preparedness/</loc>
+    <loc>https://badbaad.com/tags/mogadishu/</loc>
     <lastmod>2020-03-21T15:21:18-04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/publication/who-preparedness/"
+                href="https://badbaad.com/en/tags/mogadishu/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="so"
-                href="/publication/who-preparedness/"
+                href="https://badbaad.com/tags/mogadishu/"
                 />
   </url>
   
   <url>
-    <loc>/tags/somali/</loc>
+    <loc>https://badbaad.com/publication_types/</loc>
     <lastmod>2020-03-21T15:21:18-04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/somali/"
+                href="https://badbaad.com/en/publication_types/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="so"
-                href="/tags/somali/"
+                href="https://badbaad.com/publication_types/"
                 />
   </url>
   
   <url>
-    <loc>/tags/somalia/</loc>
+    <loc>https://badbaad.com/publication/who-preparedness/</loc>
     <lastmod>2020-03-21T15:21:18-04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/somalia/"
+                href="https://badbaad.com/en/publication/who-preparedness/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="so"
-                href="/tags/somalia/"
+                href="https://badbaad.com/publication/who-preparedness/"
                 />
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>https://badbaad.com/tags/somalia/</loc>
     <lastmod>2020-03-21T15:21:18-04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/"
+                href="https://badbaad.com/en/tags/somalia/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="so"
-                href="/tags/"
+                href="https://badbaad.com/tags/somalia/"
                 />
   </url>
   
   <url>
-    <loc>/tags/who/</loc>
+    <loc>https://badbaad.com/tags/who/</loc>
     <lastmod>2020-03-21T15:21:18-04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/who/"
+                href="https://badbaad.com/en/tags/who/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="so"
-                href="/tags/who/"
+                href="https://badbaad.com/tags/who/"
                 />
   </url>
   
   <url>
-    <loc>/tags/zhejiang/</loc>
+    <loc>https://badbaad.com/tags/zhejiang/</loc>
     <lastmod>2020-03-21T15:21:18-04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/zhejiang/"
+                href="https://badbaad.com/en/tags/zhejiang/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="so"
-                href="/tags/zhejiang/"
+                href="https://badbaad.com/tags/zhejiang/"
                 />
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>https://badbaad.com/</loc>
     <lastmod>2020-03-21T15:21:18-04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/"
+                href="https://badbaad.com/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="so"
-                href="/"
+                href="https://badbaad.com/"
                 />
   </url>
   
   <url>
-    <loc>/privacy/</loc>
+    <loc>https://badbaad.com/privacy/</loc>
     <lastmod>2020-03-19T16:36:50-04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/privacy/"
+                href="https://badbaad.com/en/privacy/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="so"
-                href="/privacy/"
+                href="https://badbaad.com/privacy/"
                 />
   </url>
   
   <url>
-    <loc>/admin/</loc>
+    <loc>https://badbaad.com/admin/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/admin/"
+                href="https://badbaad.com/en/admin/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="so"
-                href="/admin/"
+                href="https://badbaad.com/admin/"
                 />
   </url>
   
   <url>
-    <loc>/publication/</loc>
+    <loc>https://badbaad.com/publication/</loc>
     <lastmod>2020-03-21T15:21:18-04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/publication/"
+                href="https://badbaad.com/en/publication/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="so"
-                href="/publication/"
+                href="https://badbaad.com/publication/"
                 />
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>https://badbaad.com/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/categories/"
+                href="https://badbaad.com/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="so"
-                href="/categories/"
+                href="https://badbaad.com/categories/"
                 />
   </url>
   
   <url>
-    <loc>/posts/who/</loc>
+    <loc>https://badbaad.com/posts/who/</loc>
     <lastmod>2020-03-21T15:21:18-04:00</lastmod>
   </url>
   

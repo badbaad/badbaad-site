@@ -4,7 +4,7 @@
 
 # Configure the English version of the site.
 [so]
-  languageCode = "so-so"
+  languageCode = "so"
   contentDir = "content/so"
   languageName = "Soomaali"
   title = "Badbaad"

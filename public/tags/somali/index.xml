@@ -2,29 +2,135 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Somali | Badbaad</title>
-    <link>/tags/somali/</link>
-      <atom:link href="/tags/somali/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://badbaad.com/tags/somali/</link>
+      <atom:link href="https://badbaad.com/tags/somali/index.xml" rel="self" type="application/rss+xml" />
     <description>Somali</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>so-so</language><copyright>This work is licensed under a Creative Commons Attribution 4.0 International License.</copyright><lastBuildDate>Fri, 13 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>so</language><copyright>This work is licensed under a Creative Commons Attribution 4.0 International License.</copyright><lastBuildDate>Thu, 19 Mar 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Somali</title>
-      <link>/tags/somali/</link>
+      <link>https://badbaad.com/tags/somali/</link>
     </image>
     
     <item>
+      <title>COVID-19 Talooyinka hayada caafimaadka ee dadweynaha</title>
+      <link>https://badbaad.com/publication/king-county/</link>
+      <pubDate>Thu, 19 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://badbaad.com/publication/king-county/</guid>
+      <description>&lt;h2 id=&#34;waa-maxay-covid-19&#34;&gt;Waa maxay COVID-19?&lt;/h2&gt;
+&lt;p&gt;COVID-19 (cudarka loo yaqaanay Nooval Koronavirus) waa nooc cusub ee feyras kamid ah, waxuuna u faafaa qof ilaa qof. Cudarkaan mareykanka iyo dalal kale oo badan ayaa laga helay. Asalkeeduna waxu ka yimid dalka shiinaha.&lt;/p&gt;
+&lt;h2 id=&#34;sidee-ayuu-u-faafaa-nooval-koronovirus-covid-19&#34;&gt;Sidee ayuu u faafaa Nooval Koronovirus (COVID-19)?&lt;/h2&gt;
+&lt;p&gt;Khubarada caafimaadka ayaa wali waxay baraniyaan faafitaanka koronovirus. Haatan waxaa la filayaa inuu
+dhowr nooc u faafo:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Dhecaanka neefsashada ee qofka cudurka qaba ka baxo marku qufaco ama hindhiso.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Dadka isku meel wada joogo oo isku dhow (ilaa 2 mitir).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Hadii aad taabatid shay ama meel fayraska leh, ka dibna aad taabatid afkaaga, sankaaga, ama indhahaaga.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;waa-maxay-astaamaha-fayrisku&#34;&gt;Waa maxay astaamaha fayrisku?&lt;/h2&gt;
+&lt;p&gt;Dadka laga helay Caabuqa Xalfaafka Wadnaha waxay soo sheegeen astaamo ay ka mid yihiin muddo kooban
+oo 2 maalmood ah ama muddo dheer oo dhan 14 maalmood kadib marka fayrisku ku dhacay:&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-calaamadaha-cudurka&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://badbaad.com/files/king-county/covid-19-signs.png&#34; data-caption=&#34;Calaamadaha Cudurka&#34;&gt;
+
+
+  &lt;img src=&#34;https://badbaad.com/files/king-county/covid-19-signs.png&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Calaamadaha Cudurka
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;h1 id=&#34;baaq-loo-dirayo-dadka-khatar-ugu-jiro-inay-qaadaan-cudurka-daran-ee-covid-19&#34;&gt;Baaq loo dirayo dadka khatar ugu jiro inay qaadaan cudurka daran ee COVID-19.&lt;/h1&gt;
+&lt;p&gt;Haayada caafimaadka ee dadweynaha waxay la talinaysaa dadka khatar ugu jiro inay qaadaan cudurka
+daran. Dadkaasi waa inay guryahooda joogaan oo ka fogaadaan meelaha la iskugu yimaado. Dadka khatar
+ugu jiro inay qaadaan cudurka daran waxaa ka mid ah:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Dadka 60 sano ka weyn.&lt;/li&gt;
+&lt;li&gt;Dadka leh cuduro kale, cuduradaas o kamid ah cudurada wadnaha, sambabada, iyo sonkorta.&lt;/li&gt;
+&lt;li&gt;Dadka difaaca jirka u ku yaryahay.&lt;/li&gt;
+&lt;li&gt;Haweenka uurka leh.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Cidii Suaalo ka qabto in xaaladooda ay halis gelineyso, fadlan la tasho dakhtarkaaga.&lt;/p&gt;
+&lt;h2 id=&#34;baaq-cid-kasta-ku-aaddan&#34;&gt;Baaq cid kasta ku aaddan&lt;/h2&gt;
+&lt;p&gt;Waxaad yareyn kartaa halista naftaada ee ku keeni karto COVID-19, iyo tan ugu muhiimsan, kuwa kuu
+dhow:
+* Guriga joog markaad jirantahay oo ha tagin meelaha dadka isku yimadaan.
+*   Hadii aad u baahato mooyee, ka fogow goobaha caafimaadka guud ahaan. Hadii aad
+xanuunsantahay, wac xafiiska dhakhtarkaaga intaadan galin.
+*   Hadii aadan xanuunsaneyn xitaa iska ilaali booqashada isbitaalada iyo xarumaha
+daryeelka. Hadii aad u baahatid inaad booqato xarumadahaas mid ka mid ah, waqtigaa
+joogto yaree, oo ka fogoo bukaanka ilaa 2 mitir.
+*   Hadii aada ka maarmin mooyee, Ha aadin qolka gargaarka degdega ah. Xirfadlayaasha ka
+shaqeeyo qolka gargaarka degdega ah, waxay u baahanyihiin inay marka hore u adeegaan
+baahiyaha ugu daran. Hadii aad leedahay qufac, qandho, ama astaamo kale, marka hore wac
+dhakhtarkaaga caadiga ah.
+*   Ku dadaal caadooyinka nadaafada shaqsiyeed ee wanaagsan, oo ay kujiraan in aad
+gacmahaage ku dhaqdid biyo iyo saabuun in badan. Ku qufac tishuu ama xusulkaaga, oo iska
+ilaali taabashada indhahaaga, sankaaga, ama afkaaga.
+*   Ka fogow dadka jiran, khaasatan hadaad khatar sare ugu sugan tahay koronavirus.
+*   Nadiifi meelaha aad loo taabto ( sida nal shidida iyo albaabaha guriga). Alaabaha guriga ee
+wax lagu nadiifiyo waa kuwo wax tariyo.
+*   Ku dadaal nasasho badan, cab cabitaano fara badan, cun cuno caafimaad leh, oo isku day
+inaad yareesid istireeska, si aad u xoojisid bulshadaade.&lt;/p&gt;
+&lt;h2 id=&#34;hadii-aad-leedahay-astaamaha-covid-19-ama-suaalo-qabtid-waxaad-wici-kartaa&#34;&gt;Hadii aad leedahay astaamaha COVID-19, ama suaalo qabtid, waxaad wici kartaa:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Xaruunta King County Nooval Koronovirus, 206-477-3977. Khadkaan wuxuu furan yahay laga
+bilaabo 8 da subaxnimo ilaa 7 da habeenimo maalin walbe.&lt;/li&gt;
+&lt;li&gt;Xaruunta Washington Nooval Koronovirus, 1-800-525-0127. Khadkaan wuxuu furan yahay laga
+bilaabo 6 da subaxnimo ilaa 10 ka habeenimo maalin walbe.
+Hawl wadeenaha ka hawlgala khadka cawinta waxay awoodaan inay kugu xiriiriyaan turjubaan. Dadka
+soo wacayo waa inay sheegi karaan luqada ay u baahan yihiin. Ugu dambeyntana, Dadka soo wacayo
+waxay la kulmi karaan waqti dheer oo sugitaan badan leh.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;diyaar-u-noqo-inaad-is-caawisaan-dareenka-adag-ee-bulshada-waxay-inow-fududaynaysaa-inaan-arintaan-adag-wado-marno&#34;&gt;Diyaar u noqo inaad is caawisaan. Dareenka adag ee bulshada waxay inow fududaynaysaa inaan arintaan adag wado marno.&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.kingcounty.gov/covid&#34;&gt;www.kingcounty.gov/covid&lt;/a&gt;
+Updated 03/06/2020 (Somali)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Corona Virus: Cabsi La&#39;aan. Tusaha Caawinta</title>
-      <link>/publication/impactdotso/</link>
+      <link>https://badbaad.com/publication/impactdotso/</link>
       <pubDate>Fri, 13 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/impactdotso/</guid>
+      <guid>https://badbaad.com/publication/impactdotso/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sawirro baraarujin ah: diyaargarowga Soomaalida</title>
-      <link>/publication/who-preparedness/</link>
+      <link>https://badbaad.com/publication/who-preparedness/</link>
       <pubDate>Fri, 13 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/who-preparedness/</guid>
+      <guid>https://badbaad.com/publication/who-preparedness/</guid>
       <description>&lt;p&gt;
 
 
@@ -43,10 +149,10 @@
 &lt;figure id=&#34;figure-who&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/files/covid-19/who-covid19/Novel_Corona_Social-1.jpg&#34; data-caption=&#34;WHO&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://badbaad.com/files/covid-19/who-covid19/Novel_Corona_Social-1.jpg&#34; data-caption=&#34;WHO&#34;&gt;
 
 
-  &lt;img src=&#34;/files/covid-19/who-covid19/Novel_Corona_Social-1.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://badbaad.com/files/covid-19/who-covid19/Novel_Corona_Social-1.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -77,10 +183,10 @@
 &lt;figure id=&#34;figure-who&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/files/covid-19/who-covid19/Novel_Corona_Social-2.jpg&#34; data-caption=&#34;WHO&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://badbaad.com/files/covid-19/who-covid19/Novel_Corona_Social-2.jpg&#34; data-caption=&#34;WHO&#34;&gt;
 
 
-  &lt;img src=&#34;/files/covid-19/who-covid19/Novel_Corona_Social-2.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://badbaad.com/files/covid-19/who-covid19/Novel_Corona_Social-2.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -111,10 +217,10 @@
 &lt;figure id=&#34;figure-who&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/files/covid-19/who-covid19/Novel_Corona_Social-3.jpg&#34; data-caption=&#34;WHO&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://badbaad.com/files/covid-19/who-covid19/Novel_Corona_Social-3.jpg&#34; data-caption=&#34;WHO&#34;&gt;
 
 
-  &lt;img src=&#34;/files/covid-19/who-covid19/Novel_Corona_Social-3.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://badbaad.com/files/covid-19/who-covid19/Novel_Corona_Social-3.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -145,10 +251,10 @@
 &lt;figure id=&#34;figure-who&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/files/covid-19/who-covid19/Novel_Corona_Social-4.jpg&#34; data-caption=&#34;WHO&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://badbaad.com/files/covid-19/who-covid19/Novel_Corona_Social-4.jpg&#34; data-caption=&#34;WHO&#34;&gt;
 
 
-  &lt;img src=&#34;/files/covid-19/who-covid19/Novel_Corona_Social-4.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://badbaad.com/files/covid-19/who-covid19/Novel_Corona_Social-4.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -179,10 +285,10 @@
 &lt;figure id=&#34;figure-who&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/files/covid-19/who-covid19/Novel_Corona_Social-5.jpg&#34; data-caption=&#34;WHO&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://badbaad.com/files/covid-19/who-covid19/Novel_Corona_Social-5.jpg&#34; data-caption=&#34;WHO&#34;&gt;
 
 
-  &lt;img src=&#34;/files/covid-19/who-covid19/Novel_Corona_Social-5.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://badbaad.com/files/covid-19/who-covid19/Novel_Corona_Social-5.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -213,10 +319,10 @@
 &lt;figure id=&#34;figure-who&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/files/covid-19/who-covid19/Novel_Corona_Social-6.jpg&#34; data-caption=&#34;WHO&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://badbaad.com/files/covid-19/who-covid19/Novel_Corona_Social-6.jpg&#34; data-caption=&#34;WHO&#34;&gt;
 
 
-  &lt;img src=&#34;/files/covid-19/who-covid19/Novel_Corona_Social-6.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://badbaad.com/files/covid-19/who-covid19/Novel_Corona_Social-6.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -247,10 +353,10 @@
 &lt;figure id=&#34;figure-who&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/files/covid-19/who-covid19/Novel_Corona_Social-7.jpg&#34; data-caption=&#34;WHO&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://badbaad.com/files/covid-19/who-covid19/Novel_Corona_Social-7.jpg&#34; data-caption=&#34;WHO&#34;&gt;
 
 
-  &lt;img src=&#34;/files/covid-19/who-covid19/Novel_Corona_Social-7.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://badbaad.com/files/covid-19/who-covid19/Novel_Corona_Social-7.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -281,10 +387,10 @@
 &lt;figure id=&#34;figure-who&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/files/covid-19/who-covid19/Novel_Corona_Social-8.jpg&#34; data-caption=&#34;WHO&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://badbaad.com/files/covid-19/who-covid19/Novel_Corona_Social-8.jpg&#34; data-caption=&#34;WHO&#34;&gt;
 
 
-  &lt;img src=&#34;/files/covid-19/who-covid19/Novel_Corona_Social-8.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://badbaad.com/files/covid-19/who-covid19/Novel_Corona_Social-8.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -315,10 +421,10 @@
 &lt;figure id=&#34;figure-who&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/files/covid-19/who-covid19/Novel_Corona_Social-9.jpg&#34; data-caption=&#34;WHO&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://badbaad.com/files/covid-19/who-covid19/Novel_Corona_Social-9.jpg&#34; data-caption=&#34;WHO&#34;&gt;
 
 
-  &lt;img src=&#34;/files/covid-19/who-covid19/Novel_Corona_Social-9.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://badbaad.com/files/covid-19/who-covid19/Novel_Corona_Social-9.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -349,10 +455,10 @@
 &lt;figure id=&#34;figure-who&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/files/covid-19/who-covid19/Novel_Corona_Social-10.jpg&#34; data-caption=&#34;WHO&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://badbaad.com/files/covid-19/who-covid19/Novel_Corona_Social-10.jpg&#34; data-caption=&#34;WHO&#34;&gt;
 
 
-  &lt;img src=&#34;/files/covid-19/who-covid19/Novel_Corona_Social-10.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://badbaad.com/files/covid-19/who-covid19/Novel_Corona_Social-10.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 

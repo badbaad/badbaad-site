@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Admin | Badbaad</title>
-    <link>/admin/</link>
-      <atom:link href="/admin/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://badbaad.com/admin/</link>
+      <atom:link href="https://badbaad.com/admin/index.xml" rel="self" type="application/rss+xml" />
     <description>Admin</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>so-so</language><copyright>This work is licensed under a Creative Commons Attribution 4.0 International License.</copyright>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>so</language><copyright>This work is licensed under a Creative Commons Attribution 4.0 International License.</copyright>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Admin</title>
-      <link>/admin/</link>
+      <link>https://badbaad.com/admin/</link>
     </image>
     
   </channel>

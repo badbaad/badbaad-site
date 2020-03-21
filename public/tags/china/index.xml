@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>China | Badbaad</title>
-    <link>/tags/china/</link>
-      <atom:link href="/tags/china/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://badbaad.com/tags/china/</link>
+      <atom:link href="https://badbaad.com/tags/china/index.xml" rel="self" type="application/rss+xml" />
     <description>China</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>so-so</language><copyright>This work is licensed under a Creative Commons Attribution 4.0 International License.</copyright><lastBuildDate>Fri, 13 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>so</language><copyright>This work is licensed under a Creative Commons Attribution 4.0 International License.</copyright><lastBuildDate>Fri, 13 Mar 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>China</title>
-      <link>/tags/china/</link>
+      <link>https://badbaad.com/tags/china/</link>
     </image>
     
     <item>
       <title>Hagaha ka hortagga cudurka COVID-19</title>
-      <link>/publication/zhejiang-hospital/</link>
+      <link>https://badbaad.com/publication/zhejiang-hospital/</link>
       <pubDate>Fri, 13 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/zhejiang-hospital/</guid>
+      <guid>https://badbaad.com/publication/zhejiang-hospital/</guid>
       <description></description>
     </item>
     
