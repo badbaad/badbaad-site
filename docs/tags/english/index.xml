@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>English | Badbaad</title>
+    <link>https://badbaad.com/tags/english/</link>
+      <atom:link href="https://badbaad.com/tags/english/index.xml" rel="self" type="application/rss+xml" />
+    <description>English</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>so-so</language><copyright>This work is licensed under a Creative Commons Attribution 4.0 International License.</copyright><lastBuildDate>Fri, 13 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>English</title>
+      <link>https://badbaad.com/tags/english/</link>
+    </image>
+    
+    <item>
+      <title>Hagaha ka hortagga cudurka COVID-19</title>
+      <link>https://badbaad.com/publication/zhejiang-hospital/</link>
+      <pubDate>Fri, 13 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://badbaad.com/publication/zhejiang-hospital/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
